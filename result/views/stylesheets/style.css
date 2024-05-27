@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  opacity: 0;
+  opacity: 50;
   transition: all 1s linear;
 }
 
